@@ -1,4 +1,4 @@
-Changelogs 1.4
+ChangeLog 1.4
 ==============
 
 - Project settings editing.
