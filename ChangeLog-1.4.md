@@ -6,5 +6,5 @@ Changelogs 1.4
 - Add `CGO_CFLAGS`, `CGO_LDFLAGS` environment variables.
 - File event monitor fix.
 
-Please see: <http://gotray.extremedev.org/>
+Please visit: <http://gotray.extremedev.org/>
 
